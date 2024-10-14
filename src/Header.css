@@ -1,0 +1,23 @@
+.headermnctr{
+    background-color: #ede9c2;
+    height: 10vh;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 5fr 0.5fr;
+    align-items: center;
+}
+.menusdiv{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.menus{
+    color: #173227;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: 600;
+}

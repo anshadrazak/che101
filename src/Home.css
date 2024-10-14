@@ -1,0 +1,72 @@
+.imgctr{
+    background-image: url(./Files/ff2.jpg);
+    
+    height: 50vh;
+    background-size: 100%;
+    background-position: 00px -400px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 2fr;
+}
+
+.txtcts{
+    color: white;
+}
+
+.mainctr1{
+
+    margin: 0px;
+}
+
+.hding{
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.tagline{
+    font-family: monospace;
+    font-weight: 100;
+}
+
+.ptbtn{
+    background-color: #e4d636;
+    color: #173227;
+    padding: 10px;
+    font-family: monospace;
+    font-weight: 600;
+}
+
+.quote{
+
+    margin: auto;
+    margin-top: 20px;
+    width: 60%;
+    text-align: center;
+    font-family:monospace;
+    color: #173227;
+}
+
+.greenctr{
+    margin-top: 30px;
+    background-color: #173227;
+    min-height: 100vh;
+    color: white;
+    padding-bottom: 50px;
+}
+
+.cntdiv{
+    padding-top: 30px;
+    margin: auto;
+    width: 60%;
+    
+}
+
+.hdings{
+    font-family: monospace;
+    font-size: 26px;
+}
+
+.defs{
+    font-size: 19px;
+    font-family: monospace;
+}
