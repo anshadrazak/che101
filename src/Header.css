@@ -5,6 +5,14 @@
     grid-template-columns: 2fr 1fr 1fr 5fr 0.5fr;
     align-items: center;
 }
+
+.logo{
+    position: absolute;
+    margin: auto;
+    margin-top: -50px;
+    width: 100px;
+}
+
 .menusdiv{
     justify-content: center;
     display: flex;

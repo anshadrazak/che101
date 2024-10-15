@@ -46,18 +46,27 @@
     color: #173227;
 }
 
+.onectr{
+    background-color: #ede9c2;
+    padding: 5%;
+}
+
+.light{
+    color: #ede9c2;
+}
+
 .greenctr{
     margin-top: 30px;
     background-color: #173227;
     min-height: 100vh;
-    color: white;
+    color: #173227;
     padding-bottom: 50px;
 }
 
 .cntdiv{
     padding-top: 30px;
     margin: auto;
-    width: 60%;
+    width: 70%;
     
 }
 

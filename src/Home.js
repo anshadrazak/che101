@@ -25,24 +25,27 @@ const Home = () => {
             </div>
             <div className='greenctr'>
                 <div className='cntdiv'>
+                    <div className='onectr'>
                     <h3 className='hdings'>The Growing Threat of Forest Fires:</h3>
                     <p className='defs'>Forest fires are increasing in frequency and intensity, 
                     destroying ecosystems and communities around the globe. These fires not only 
                     claim lives and wildlife but also accelerate climate change by releasing massive 
                     amounts of carbon into the atmosphere.</p>
-                    <a><button className='ptbtn'>Learn More</button></a>
+                    <a><button className='ptbtn'>Learn More</button></a></div>
                     <br/><br/>
-                    <h3 className='hdings'>Why we must act now:</h3>
-                    <p className='defs'>
+                    <h3 className='hdings light'>Why we must act now:</h3>
+                    <p className='defs light'>
                     <b>Biodiversity at Risk:</b><br/> Forests are home to 80% of the world’s terrestrial species, and fires put this biodiversity in immediate danger.
                     <br></br><br></br><b>Human Impact:</b><br/> Communities living near forests face threats to their health, safety, and homes due to forest fires.
                     <br></br><br></br><b>Climate Change:</b><br/> Forests play a crucial role in absorbing carbon dioxide, and their loss accelerates global warming.
                     </p>
+                    
                     <br/>
                     <br/>
+                    <div className='onectr'>
                     <h3 className='hdings'>Together, We Can Make a Difference:</h3>
                     <p className='defs'>Small actions can prevent catastrophic fires. Whether you're a camper, landowner, or simply someone who cares, you have the power to reduce the risk of forest fires.</p>
-                    <a href='/prevention'><button className='ptbtn'>Explore prevention tips</button></a>
+                    <a href='/prevention'><button className='ptbtn'>Explore prevention tips</button></a></div>
                 </div>
             </div>
         </div>

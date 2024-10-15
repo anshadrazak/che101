@@ -1,12 +1,13 @@
 import React from 'react'
 import './Header.css'
+import logo from './Files/Leonardo_Phoenix_A_modern_sleek_logo_for_Blaze_Guard_featuring_2.png'
 
 const Header = () => {
   return (
     <div>
         <div className='headermnctr'>
             <div></div>
-            <div>LOGO</div>
+            <div><a href='/'><img className='logo' src={logo}></img></a></div>
             <div></div>
             <div className='menusdiv'>
                 <a href='/'><p className='menus'>HOME</p></a>
