@@ -14,7 +14,7 @@ const Home = () => {
                         Addressing the Fire Crisis.
                     </h1>
                     <h3 className='tagline'>Learn how to prevent forest fires and<br/>safeguard our environment.</h3>
-                    <a href='/prevention'><button className='ptbtn'>How to Prevent</button></a>
+                    <a href='/preventions'><button className='ptbtn'>How to Prevent</button></a>
                 </div>
                 <div></div>
             </div>
@@ -31,7 +31,7 @@ const Home = () => {
                     destroying ecosystems and communities around the globe. These fires not only 
                     claim lives and wildlife but also accelerate climate change by releasing massive 
                     amounts of carbon into the atmosphere.</p>
-                    <a><button className='ptbtn'>Learn More</button></a></div>
+                    <a href='/causes'><button className='ptbtn'>Learn More</button></a></div>
                     <br/><br/>
                     <h3 className='hdings light'>Why we must act now:</h3>
                     <p className='defs light'>

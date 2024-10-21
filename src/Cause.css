@@ -1,0 +1,14 @@
+.imgctr2{
+    background-image: url(./Files/cc.jpg);
+    
+    height: 50vh;
+    background-size: 100%;
+    background-position: 00px -400px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 2fr;
+}
+
+.tt{
+    
+}
