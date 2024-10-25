@@ -45,7 +45,7 @@ const Home = () => {
                     <div className='onectr'>
                     <h3 className='hdings'>Together, We Can Make a Difference:</h3>
                     <p className='defs'>Small actions can prevent catastrophic fires. Whether you're a camper, landowner, or simply someone who cares, you have the power to reduce the risk of forest fires.</p>
-                    <a href='/prevention'><button className='ptbtn'>Explore prevention tips</button></a></div>
+                    <a href='/preventions'><button className='ptbtn'>Explore prevention tips</button></a></div>
                 </div>
             </div>
         </div>

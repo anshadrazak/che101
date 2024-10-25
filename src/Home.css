@@ -79,3 +79,10 @@
     font-size: 19px;
     font-family: monospace;
 }
+
+.ptbtn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    
+}
