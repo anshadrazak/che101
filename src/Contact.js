@@ -21,7 +21,7 @@ const Contact = () => {
           <p className='defs'>National Disaster Response Force (NDRF): 108 (for Disaster Management Services)</p>
           <p className='defs'>Disaster Management Services: 108</p>
         </div>
-        <a href='tel:+91101'><button className='reportbtn'>Report A Fire</button></a>
+        <a href='tel:101'><button className='reportbtn'>Report A Fire</button></a>
                         
       </div>
     </div>
