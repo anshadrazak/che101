@@ -39,7 +39,7 @@
     
     margin-top: -15%;
     background-color: #874620;
-    height: 50vh;
+    height: 60vh;
 }
 
 .cttxt{
@@ -54,5 +54,22 @@
     width: 100%;
     background-color: #874620;
     height: 100vh;
+}
+
+.reportbtn{
+    background-color: rgb(88, 23, 23);
+    border: 1px rgb(0, 0, 0) solid;
+    color: white;
+    font-family: monospace;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-left: 50%;
+    translate: -50%;
+    padding: 20px;
+}
+
+.reportbtn:hover{
+    background-color: black;
+    cursor: pointer;
 }
 
