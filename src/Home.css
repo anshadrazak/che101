@@ -26,6 +26,7 @@
 .tagline{
     font-family: monospace;
     font-weight: 100;
+    padding-bottom: 20px;
 }
 
 .ptbtn{
@@ -47,7 +48,7 @@
 }
 
 .onectr{
-     background: rgba(255, 255, 255, 0.771);
+     background: rgba(255, 255, 255, 0.849);
 box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
 backdrop-filter: blur( 4px );
 -webkit-backdrop-filter: blur( 4px );
@@ -57,7 +58,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
 .light{
-    color: #ffffff;
+    color: #e4d5cc;
 }
 
 .greenctr{
@@ -90,4 +91,10 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
     color: white;
     cursor: pointer;
     
+}
+
+.whitectr{
+    margin: 0px;
+    background-color: white;
+    padding-bottom: 20px;
 }
