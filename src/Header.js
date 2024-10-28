@@ -14,6 +14,9 @@ const Header = () => {
                 <a href='/causes'><p className='menus'>CAUSES</p></a>
                 <a href='/preventions'><p className='menus'>PREVENTIONS</p></a>
                 <a href='/contact'><p className='menus'>CONTACT</p></a>
+                <a href='/about'><p className='menus'>ABOUT</p></a>
+
+                
             </div>
             <div></div>
         </div>
