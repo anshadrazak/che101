@@ -5,6 +5,7 @@ import Home from './Home';
 import Cause from './Cause';
 import Prevention from './Prevention';
 import Contact from './Contact';
+import About from './About';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
             <Route path='/causes' element={<Cause/>}/>
             <Route path='/preventions' element={<Prevention/>}/>
             <Route path='/contact' element={<Contact/>}/>
+            <Route path='/about' element={<About/>}/>
         </Routes>
       </BrowserRouter>
     </div>

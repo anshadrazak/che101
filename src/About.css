@@ -1,0 +1,25 @@
+.sd{
+    background-color: #874620;
+}
+
+.about{
+    width: 70%;
+    margin-left: 50%;
+    translate: -50%;
+    background-color: #874620;
+    height: 100vh;
+    text-align: center;
+    font-family: monospace;
+    color: white;
+
+}
+
+.ahd{
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.ap{
+    font-size: 20px;
+}
+
